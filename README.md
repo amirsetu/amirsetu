@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirsetu
-- 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on basic Pythin projects :)
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science fundamentals
+- 💞️ I’m looking to collaborate on Data Science projects :)
 - 📫 Reach me via email: amir.stkzm@gmail.com
 
 <!---
